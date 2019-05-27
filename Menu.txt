@@ -1,0 +1,5 @@
+0 1 0.25 1.8 Coca-Cola
+0 2 0.5 0.8 Water
+1 5 300 1.9 Svinska purjola
+1 6 250 1.4 Pileshka purjola
+1 11 500 1.3 Vinen kebap

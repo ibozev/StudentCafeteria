@@ -1,0 +1,71 @@
+2018-11-25 5.52 boris hristozov
+4
+Coca-Cola
+Bob s nadenica
+Pileshka purjola
+Kashkaval Pane
+
+2018-11-26 4.83 121216185
+4
+Coca-Cola
+Bob s nadenica
+Kashkaval Pane
+Pileshka purjola
+
+2018-11-26 1.4 121216211
+1
+Coca-Cola
+
+2018-11-26 1.76 Aneliya Kamenova
+2
+Water
+Pileshka purjola
+
+2018-11-26 3.85 121216211
+3
+Coca-Cola
+Bob s nadenica
+Kashkaval Pane
+
+2018-11-27 2.45 121216211
+3
+Soda
+Pileshka purjola
+Bob s nadenica
+
+2018-11-27 2.8 121216099
+3
+Coca-Cola
+Pileshka purjola
+Soda
+
+2018-11-27 4.41 121216099
+4
+Water
+Bob s nadenica
+Kashkaval Pane
+Coca-Cola
+
+2018-12-01 2.31 121216147
+3
+Vinen kebap
+Pileshka purjola
+Soda
+
+2018-12-01 2.56 boris kamenov
+3
+Soda
+Zeleva salata
+Bob s nadenica
+
+2018-12-02 4.41 121216211
+4
+Coca-Cola
+Kashkaval Pane
+Pileshka purjola
+Vinen kebap
+
+2018-12-03 1.26 121216211
+1
+Coca-Cola
+

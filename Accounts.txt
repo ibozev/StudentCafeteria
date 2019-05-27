@@ -1,0 +1,13 @@
+0 1 2018-11-24 30 121216211 Iliya Bozev
+0 3 2018-11-24 30 121216185 Alex Hristov
+1 4 2018-11-24 20 Aneliya Kamenova
+1 5 2018-11-24 20 Boris Hristozov
+1 7 2018-11-26 20 Boris Kamenov
+0 8 2018-11-26 30 121215489 Hristo Petrov
+1 9 2018-11-27 20 Georgi Hristov
+0 10 2018-11-27 30 121216099 Kostadinka Vasileva
+0 12 2018-12-01 30 121216147 Kostadin Kocev
+1 13 2018-12-01 20 Kiril Todorov
+1 14 2018-11-01 20 Viktoriya Svilenova
+1 15 2018-12-01 20 Kiril Bojanov
+0 16 2018-12-05 30 121216333 Boqn Kirilov
